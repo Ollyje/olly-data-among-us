@@ -1,0 +1,19 @@
+Timestamp,Open_or_Closed,Dark_or_Light,Private_or_Public,Natural_or_Manmade,Old_or_New,Quiet_or_Loud
+17/10/2024 12:34:54,Open,Dark,Private,Natural,New,Quiet
+17/10/2024 12:35:04,Open,Dark,Private,Natural,New,Quiet
+17/10/2024 12:37:42,Closed,Light,Private,Natural,New,Quiet
+17/10/2024 12:38:39,Open,Light,Private,Natural,Old,Quiet
+17/10/2024 12:42:22,Open,Dark,Private,Natural,New,Loud
+17/10/2024 12:50:56,Closed,Dark,Private,Natural,New,Quiet
+17/10/2024 12:55:29,Open,Light,Private,Natural,Old,Quiet
+17/10/2024 13:01:06,Open,Light,Public,Natural,New,Quiet
+17/10/2024 13:05:36,Open,Dark,Private,Natural,Old,Quiet
+17/10/2024 13:08:01,Open,Dark,Private,Natural,New,Quiet
+17/10/2024 13:26:31,Open,Light,Public,Natural,New,Loud
+17/10/2024 13:39:37,Open,Light,Private,Natural,New,Quiet
+17/10/2024 13:50:14,Open,Light,Private,Natural,Old,Quiet
+17/10/2024 13:55:32,Open,Dark,Private,Natural,New,Quiet
+17/10/2024 14:00:48,Closed,Dark,Private,Manmade,Old,Quiet
+17/10/2024 17:11:40,Closed,Light,Private,Natural,Old,Quiet
+18/10/2024 16:29:57,Open,Dark,Public,Natural,New,Quiet
+19/10/2024 21:41:43,Closed,Light,Private,Natural,Old,Quiet
